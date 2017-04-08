@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Sat Apr 08 11:54:53 KST 2017
+2.base=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\image_detail_fragment.xml
+5.set=ANDROID_RESOURCE
+3.base=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\image_detail_pager.xml
+2.set=ANDROID_RESOURCE
+4.base=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\tile.9.png
+7.set=ANDROID_RESOURCE
+count=10
+0.file=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\empty_photo.png
+5.base=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+4.set=ANDROID_RESOURCE
+6.base=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+9.set=ANDROID_RESOURCE
+9.file=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\photogrid_list_selector.xml
+1.set=ANDROID_RESOURCE
+7.base=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main_menu.xml
+6.set=ANDROID_RESOURCE
+0.base=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\image_grid_fragment.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

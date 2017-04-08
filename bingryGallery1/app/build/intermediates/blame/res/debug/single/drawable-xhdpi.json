@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "H:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "H:\\Android\\workspace\\bingryGallery1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\empty_photo.png",
+        "source": "H:\\Android\\workspace\\bingryGallery1\\app\\src\\main\\res\\drawable-xhdpi\\empty_photo.png"
+    }
+]

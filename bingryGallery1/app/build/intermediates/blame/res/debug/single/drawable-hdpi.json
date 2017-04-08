@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "H:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "H:\\Android\\workspace\\bingryGallery1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "H:\\Android\\workspace\\bingryGallery1\\app\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "H:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\empty_photo.png",
+        "source": "H:\\Android\\workspace\\bingryGallery1\\app\\src\\main\\res\\drawable-hdpi\\empty_photo.png"
+    }
+]

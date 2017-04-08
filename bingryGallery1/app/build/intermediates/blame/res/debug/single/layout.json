@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "H:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_fragment.xml",
+        "source": "H:\\Android\\workspace\\bingryGallery1\\app\\src\\main\\res\\layout\\image_detail_fragment.xml"
+    },
+    {
+        "merged": "H:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_pager.xml",
+        "source": "H:\\Android\\workspace\\bingryGallery1\\app\\src\\main\\res\\layout\\image_detail_pager.xml"
+    },
+    {
+        "merged": "H:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_fragment.xml",
+        "source": "H:\\Android\\workspace\\bingryGallery1\\app\\src\\main\\res\\layout\\image_grid_fragment.xml"
+    }
+]

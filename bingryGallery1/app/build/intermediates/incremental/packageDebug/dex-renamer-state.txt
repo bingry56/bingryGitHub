@@ -1,0 +1,7 @@
+#Sat Apr 08 10:52:37 KST 2017
+base.0=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c531d6b816a07b6f28eb50d41677bbd9176e56a7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_00cf2996af41729ae68ea8f173e2464c87dd7077\\classes.dex
+base.1=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_00cf2996af41729ae68ea8f173e2464c87dd7077
+file.0=H\:\\Android\\workspace\\bingryGallery1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c531d6b816a07b6f28eb50d41677bbd9176e56a7\\classes.dex

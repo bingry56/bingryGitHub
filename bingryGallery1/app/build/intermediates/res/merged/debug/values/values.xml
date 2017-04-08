@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grid_state_focused">#80000000</color>
+    <color name="grid_state_pressed">#1Affffff</color>
+    <dimen name="horizontal_page_margin">@dimen/margin_medium</dimen>
+    <dimen name="image_thumbnail_size">150dp</dimen>
+    <dimen name="image_thumbnail_spacing">5dp</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
+    <string name="app_name">DisplayingBitmaps</string>
+    <string name="clear_cache_complete_toast">Caches have been cleared</string>
+    <string name="clear_cache_menu">Clear Caches</string>
+    <string name="imageview_description">Image Thumbnail</string>
+    <string name="intro_message">
+        
+        
+            
+            This is a sample application for the Android Training class
+            &amp;quot;Displaying Bitmaps Efficiently&amp;quot;
+            (http://developer.android.com/training/displaying-bitmaps/).\n\n
+
+            It demonstrates how to load large bitmaps efficiently off the main UI thread, caching
+            bitmaps (both in memory and on disk), managing bitmap memory and displaying bitmaps
+            in UI elements such as ViewPager and ListView/GridView.
+            
+        
+        
+    </string>
+    <string name="no_network_connection_toast">No network connection found</string>
+    <style name="AppTheme" parent="Theme.Sample"/>
+    <style name="AppThemeDark" parent="android:Theme"/>
+    <style name="AppThemeDark.FullScreen" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen"/>
+    <style name="PhotoGridLayout">
+        <item name="android:drawSelectorOnTop">true</item>
+        <item name="android:listSelector">@drawable/photogrid_list_selector</item>
+    </style>
+    <style name="Theme.Base" parent="android:Theme.Light"/>
+    <style name="Theme.Sample" parent="Theme.Base"/>
+    <style name="Widget"/>
+    <style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+</resources>
